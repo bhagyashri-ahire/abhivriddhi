@@ -1,0 +1,20 @@
+@font-face {
+    font-family: fhgm;
+    src: url(./font/fhgmedium.ttf);
+}
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: fhgm;
+}
+html,body{
+    height: 100%;
+    width:100%;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
